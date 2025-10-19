@@ -1,0 +1,3 @@
+model_name: 'ShuffleNet' #ResNet50,ShuffleNet
+dataset_name: 'WGANGP' #3DGS,DRAGAN,LSGAN,SNGAN,WGANGP,ZLACK,ZFULL
+num_experiments: 100
