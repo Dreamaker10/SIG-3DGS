@@ -1,1 +1,1 @@
-# code for image quality assessment
+# Code for generated SAR image quality assessment.
